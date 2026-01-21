@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Christenally/Meet-Landing-Page)
-- Live Site URL: (https://christenally.github.io/Meet-Landing-Page)
+- Solution URL: (https://github.com/christencodes/Meet-Landing-Page)
+- Live Site URL: (https://christencodes.github.io/Meet-Landing-Page)
 
 ## My process
 
